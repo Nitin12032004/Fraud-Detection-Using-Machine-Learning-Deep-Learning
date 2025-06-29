@@ -1,3 +1,6 @@
+The Link to access the Deployed model on Hugging Face:
+https://huggingface.co/spaces/Nitin12032004/disaster-tweet-classifier
+
 This project focuses on building an effective fraud detection system for financial transactions. It tackles the challenge of highly imbalanced data, where fraudulent transactions are rare compared to genuine ones.
 
 Key Highlights:
